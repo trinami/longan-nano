@@ -23,7 +23,7 @@ embedded-sdmmc = { version = "0.3.0", optional = true }
 usb-device = { version = "0.2.9", optional = true }
 
 [dependencies.gd32vf103xx-hal]
-git = "https://github.com/katyo/gd32vf103xx-hal"
+git = "https://github.com/trinami/gd32vf103xx-hal"
 branch = "upcoming"
 
 [dev-dependencies]
